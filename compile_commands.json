@@ -1,0 +1,16 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-g",
+            "-Wall",
+            "-o",
+            "generater",
+            "generater.cc"
+        ],
+        "directory": "/data00/home/chengzongjie/github/tark",
+        "file": "generater.cc"
+    }
+]
